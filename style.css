@@ -1,0 +1,19 @@
+body{
+    background-color: #E0F4FF;
+}
+
+h1{
+    text-align: center;
+}
+
+.header{
+    border: 5px solid black;
+    width: 50%;
+    margin-left: 25%;
+    background-color: #87C4FF;
+}
+
+.return{
+    font-weight: bold;
+    text-align: center;
+}
